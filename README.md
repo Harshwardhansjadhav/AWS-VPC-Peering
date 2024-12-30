@@ -3,7 +3,7 @@
 ## **Overview**
 Amazon Virtual Private Cloud (VPC) Peering allows direct network connectivity between VPCs, ensuring high security, low latency, and cost-effective communication. This repository documents the implementation, challenges, and real-world impact of a VPC Peering project.
 
-![VPC Peering Diagram](./images/vpc_peering_diagram.jpg)
+![Untitled design](https://github.com/user-attachments/assets/2e741060-67c1-4623-a5a5-103f09b68b00)
 
 ---
 
