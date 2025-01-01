@@ -200,6 +200,6 @@ Amazon Virtual Private Cloud (VPC) Peering enables direct communication between 
 ### **Step 3: Configure Security**
 - Adjust security groups and network ACLs for required traffic.
 
-### **Step 4: Launching EC2 Instances:                                                                                               
+### Step 4: Launching EC2 Instances                                                                                               
 -	Launching EC2 (Elastic Compute Cloud) and giving proper network setting, security groups and connecting it through management console.
 
